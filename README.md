@@ -3,7 +3,7 @@
 A Resume Builder Application using React.Js is a powerful and intuitive tool designed to streamline the creation of professional resumes. This application harnesses the capabilities of React.Js, a popular frontend JavaScript library, to deliver a seamless and user-friendly experience for crafting visually appealing and highly effective resumes.
 The Resume Builder Application using React.Js offers a wide array of customizable templates, enabling users to showcase their skills, experiences, and achievements in a manner that best suits their professional goals. The integration of React.Js ensures a dynamic and responsive interface, adapting to user inputs in real-time and providing instant previews of the final resume.
 
-# Key features of the Resume Builder Application using React.Js include :
+## Key features of the Resume Builder Application using React.Js include :
 
 ## User-friendly Interface: 
 The application boasts an intuitive and easy-to-navigate design, allowing users to create and edit their resumes with minimal effort.
